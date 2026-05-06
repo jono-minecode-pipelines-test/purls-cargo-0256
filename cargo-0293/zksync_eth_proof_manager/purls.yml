@@ -1,0 +1,15 @@
+- pkg:cargo/zksync_eth_proof_manager@28.10.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.0.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.1.2-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.11.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.11.1-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.12.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.13.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.2.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.3.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.4.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.4.1-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.5.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.6.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.7.0-non-semver-compat
+- pkg:cargo/zksync_eth_proof_manager@29.7.1-non-semver-compat
